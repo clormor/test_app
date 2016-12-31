@@ -12,6 +12,7 @@ gem 'rails', '~> 5.0.1'
 group :development, :test do
   gem 'sqlite3'
 end
+
 # Use postgres as the production database for Active Record
 group :production do
   gem 'pg'
