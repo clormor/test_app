@@ -7,6 +7,6 @@ script: bundle install --without production
 notifications:
   email:
     recipients:
-      - cdlormor+travis@gmail.com
+      - cdlormor+dev@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
