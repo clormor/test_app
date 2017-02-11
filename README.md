@@ -1,24 +1,6 @@
-# README
+# Railsbridge Installfest Test App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A hello world Ruby on Rails application created by following Railbridge's [Installfest](http://docs.railsbridge.org/installfest/installfest) documentation.
 
-Things you may want to cover:
+The master branch of this repo is automatically deployed using Heroku as [quiet-wave-3368](https://dashboard.heroku.com/apps/quiet-wave-33368/access).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
